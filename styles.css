@@ -21,6 +21,12 @@ html {
   margin-bottom: -7px;
 }
 
+img {
+  box-shadow: 8px 8px 8px 8px;
+  color: #6313bf;
+  border-radius: 10px;
+}
+
 #image {
   max-width: 100%;
   height: auto;
